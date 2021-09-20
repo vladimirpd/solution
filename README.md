@@ -11,7 +11,7 @@ the
 lazy
 dog
 
-#task 2
+# task 2
 пример ввода "the quick brown fox jumps over the lazy dog"
 пример вывода
 brown
@@ -24,7 +24,7 @@ quick
 the
 the
  
-#task 3
+# task 3
 пример ввода "the quick brown fox jumps over the lazy dog"
 пример вывода
 brown
@@ -36,7 +36,7 @@ over
 quick
 the
 
-#task 4
+# task 4
 пример ввода "the quick brown fox jumps over the lazy dog"
 пример вывода
 brown=1
