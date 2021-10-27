@@ -1,4 +1,3 @@
 fun main(args: Array<String>) {
-    if (args.isNotEmpty())
-        args[0].split(" ").sorted().distinct().forEach(::println)
+    args.sorted().distinct().forEach(::println)
 }
