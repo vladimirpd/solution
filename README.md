@@ -1,3 +1,5 @@
+![example workflow](https://github.com/vladimirpd/solution/actions/workflows/blank.yml/badge.svg)
+
 # solution
 # task1 
 пример ввода "the quick brown fox jumps over the lazy dog"
