@@ -1,4 +1,4 @@
-![example workflow](https://github.com/vladimirpd/solution/actions/workflows/blank.yml/badge.svg)
+![example workflow](https://github.com/vladimirpd/solution/actions/workflows/Blank.yml/badge.svg)
 
 # solution
 # task1 
